@@ -1,6 +1,8 @@
 # COVID-Image-Diagnosis-Tool
 
-<img src="https://th.bing.com/th/id/OIG.sGXSsCEq5jl1y_jzVz3N?pid=ImgGn" width="300" height="300" style="display: block; margin: auto;">
+<p align="center">
+  <img src="covid-image-diagnosis-tool.png" alt="Logo" width="400"/>
+</p>
 
 ## Project Overview
 
