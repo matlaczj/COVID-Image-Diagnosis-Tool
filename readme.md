@@ -66,6 +66,9 @@ The model architecture consists of convolutional layers with decreasing kernel s
 
 The model is trained using Adam optimizer with standard learning rates. Callbacks for early stopping and monitoring metrics like precision and recall are utilized.
 
+![alt text](train_loss_acc.png "Training loss and accuracy.")
+![alt text](training_prec_rec.png "Training precision and recall.") 
+
 ## Evaluation
 
 Evaluation metrics, including accuracy and confusion matrices, are computed on both validation and test sets.
@@ -73,6 +76,9 @@ Evaluation metrics, including accuracy and confusion matrices, are computed on b
 ## Results
 
 Various scores and confusion matrices provide insights into classification performance.
+
+![alt text](test_predicted_labels.png "Confusion matrix on test dataset.")
+![alt text](test_recalls_precisions.png "Recalls and precitions on test dataset.") 
 
 ## Future Enhancements
 
