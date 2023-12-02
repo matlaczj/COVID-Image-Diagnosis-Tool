@@ -1,7 +1,7 @@
 # COVID-Image-Diagnosis-Tool
 
 <p align="center">
-  <img src="logo.png" alt="Logo" width="400"/>
+  <img src="logo1.png" alt="Logo" width="400"/>
 </p>
 
 ## Project Overview
